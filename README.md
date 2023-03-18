@@ -6,8 +6,8 @@
 
 - 🎮 I am currently working for [MysthicArk Studios](https://twitter.com/mysthicark)
 
-<h2 align="left">Languages:</h3>
-<p align="left">
+<h2 align="center">Languages:</h3>
+<p align="center">
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/discordjs/discordjs-plain.svg" alt="discordjs" width="40" height="40"/>
