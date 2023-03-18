@@ -1,6 +1,7 @@
 <h1 align="center">Hi</h1>
 
-<p align="left"> <a href="https://twitter.com/ElguerreritoYT" target="blank"><img src="https://img.shields.io/twitter/follow/ElguerreritoYT?color=blue&style=for-the-badge" alt="ElguerreritoYT" /></a> </p>
+<p align="left"> <a href="https://twitter.com/ElguerreritoYT" target="blank"><img src="https://img.shields.io/twitter/follow/ElguerreritoYT?color=white&style=for-the-badge" alt="ElguerreritoYT" /></a><img src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" alt="java" width="40" height="40"/>
+</p>
 
  <br>
 
