@@ -1,6 +1,9 @@
 <h1 align="center">Hi</h1>
 
-<p align="left"> <a href="https://twitter.com/ElguerreritoYT" target="blank"><img src="https://img.shields.io/twitter/follow/ElguerreritoYT?color=blue&logo=twitter&logoColor=white&style=flat-square" alt="ElguerreritoYT" /></a>
+<p align="center">
+<a href="https://twitter.com/ElguerreritoYT" target="blank"><img src="https://img.shields.io/twitter/follow/ElguerreritoYT?color=blue&logo=twitter&logoColor=white&style=plastic" alt="ElguerreritoYT" /></a>
+<a href="https://twitter.com/ElguerreritoYT" target="blank"><img src="https://img.shields.io/twitter/follow/ElguerreritoYT?color=blue&logo=twitter&logoColor=white&style=plastic" alt="ElguerreritoYT" /></a>
+<a href="https://twitter.com/ElguerreritoYT" target="blank"><img src="https://img.shields.io/twitter/follow/ElguerreritoYT?color=blue&logo=twitter&logoColor=white&style=plastic" alt="ElguerreritoYT" /></a>
 </p>
 
  <br>
