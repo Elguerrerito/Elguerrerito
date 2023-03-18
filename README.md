@@ -1,4 +1,4 @@
-<h1 align="center">Hi 😉, I'm Joyce, I'm currently 21 years old 🤠</h1>
+<h1 align="center">Hi</h1>
 
 <p align="left"> <a href="https://twitter.com/ElguerreritoYT" target="blank"><img src="https://img.shields.io/twitter/follow/ElguerreritoYT?color=blue&style=for-the-badge" alt="ElguerreritoYT" /></a> </p>
 
