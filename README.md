@@ -15,4 +15,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/discordjs/discordjs-plain.svg" alt="discordjs" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/feathersjs/feathersjs-original.svg" alt="nodejs" width="40" height="40"/>
+ <img src="https://github.com/devicons/devicon/blob/master/icons/electron/electron-original.svg" alt="nodejs" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="socketio" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/socketio/socketio-original.svg" alt="socketio" width="40" height="40"/>
